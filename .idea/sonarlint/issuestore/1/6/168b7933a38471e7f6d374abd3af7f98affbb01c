@@ -1,0 +1,7 @@
+
+•	java:S116."NRename this field "MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¨Õúÿÿÿÿ8ÂıÒÁì1J$16b2eac2-5df0-46f6-b755-f62b3f48e69b
+i
+java:S1170."!Make this final field static too.(û¨Õúÿÿÿÿ8ÄıÒÁì1J$11fa3394-b264-467a-9692-dd93f5d6a7e0
+r	java:S106D"+Replace this use of System.err by a logger.(çÒ¥Šüÿÿÿÿ8ÑıÒÁì1J$bd9c49bc-2eee-4af8-b5d1-975fd78a0ada
+v
+java:S1128"3Remove this unused import 'java.text.NumberFormat'.(¿¸»8¸ÿ×±2J$2e38fb9b-f0e2-48b2-8370-b7228a7a41c8
